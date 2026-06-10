@@ -1,0 +1,21 @@
+customer_id,customer_name,city,segment
+1,Cliente 1,Barranquilla,Retail
+2,Cliente 2,Barranquilla,Mayorista
+3,Cliente 3,Soledad,Retail
+4,Cliente 4,Malambo,Mayorista
+5,Cliente 5,Barranquilla,Retail
+6,Cliente 6,Puerto Colombia,Mayorista
+7,Cliente 7,Soledad,Retail
+8,Cliente 8,Malambo,Mayorista
+9,Cliente 9,Barranquilla,Retail
+10,Cliente 10,Barranquilla,Mayorista
+11,Cliente 11,Soledad,Retail
+12,Cliente 12,Malambo,Mayorista
+13,Cliente 13,Barranquilla,Retail
+14,Cliente 14,Puerto Colombia,Mayorista
+15,Cliente 15,Barranquilla,Retail
+20,Cliente 20,Barranquilla,Mayorista
+25,Cliente 25,Soledad,Retail
+30,Cliente 30,Malambo,Mayorista
+35,Cliente 35,Barranquilla,Retail
+40,Cliente 40,Puerto Colombia,Mayorista

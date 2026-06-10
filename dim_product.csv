@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+1,Arroz,Granos,3000
+2,Azucar,Granos,2800
+3,Aceite,Abarrotes,12000
+4,Leche,Lacteos,4500
+5,Pan,Panaderia,2500
+6,Huevos,Abarrotes,18000
+7,Cafe,Bebidas,15000
+8,Gaseosa,Bebidas,5000
+9,Queso,Lacteos,9000
+10,Galletas,Snacks,3500
